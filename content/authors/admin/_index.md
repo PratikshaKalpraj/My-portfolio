@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title:
 
 # Name pronunciation (optional)
 name_pronunciation: Pratiksha Kalpraj
@@ -11,7 +11,7 @@ last_name: Kalpraj
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,10 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - 
-    
-  -
-    
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -47,12 +43,12 @@ profiles:
     
 
 interests:
-  - Institutional capacity building | systemic and individual 
-  - Training and Mentoring
+  - Institutional/ systemic / Individual capacity building
+  - Training and Mentoring | workforce development
   - Project management | Intervention planning |
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: MA in LIvelihoods and Social Entrepreneureship 
     institution: Stanford University
     date_start: 2016-01-01
     date_end: 2020-12-31
